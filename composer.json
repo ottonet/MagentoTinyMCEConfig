@@ -1,6 +1,6 @@
 {
     "name": "matt-bailey/MagentoTinyMCEConfig",
-    "description": "Fork from MagentoTinyMCEConfig Module by Alan Storm (added Composer support), allowing you to add additional configuration elements to Magento's TinyMCE implementation.",
+    "description": "Fork from MagentoTinyMCEConfig Module by Alan Storm (Composer support added), allowing you to add additional configuration elements to Magento's TinyMCE implementation.",
     "minimum-stability": "dev",
     "type": "magento-module",
     "authors": [
