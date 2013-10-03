@@ -1,3 +1,4 @@
 app/code/community/Pulsestorm/ app/code/community/Pulsestorm/
 app/etc/modules/Pulsestorm_Tinymceconfig.xml app/etc/modules/Pulsestorm_Tinymceconfig.xml
-js/ js/
+js/pulsestorm_tinymceconfig.dist.js js/pulsestorm_tinymceconfig.dist.js
+js/pulsestorm_tinymceconfig_isloaded.js js/pulsestorm_tinymceconfig_isloaded.js
